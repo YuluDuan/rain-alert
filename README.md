@@ -54,12 +54,12 @@ python rain_alert.py
 Sign up or log in to your [PythonAnywhere](https://www.pythonanywhere.com/) account.
 
 3. **Upload Your Project:**
-Upload your `rain_alert` project to PythonAnywhere
+Upload your `rain_alert/main.py` project to PythonAnywhere
 
 5. **Create a New Task:**
 - Go to the Dashboard and navigate to the "Tasks" tab.
 - Click on "Create a new task."
-- Select the Python version and set the task to run the `rain_alert.py` script.
+- Select the Python version and set the task to run the `main.py` script.
 - Set run command to `export OWN_API_KEY=YOUR_OWN_API_KEY; export AUTH_TOKEN=YOUR_TWILIO_TOKEN; python3 main.py`
 
 5. **Set the Schedule:**
