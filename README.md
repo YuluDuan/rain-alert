@@ -41,7 +41,8 @@ pip install -r requirements.txt
 2. Run the script:
 
 ```bash
-python rain_alert.py
+cd rain_alert
+python main.py
 ```
 
 ## Using PythonAnywhere to Automate the Script
