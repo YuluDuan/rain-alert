@@ -23,7 +23,7 @@ Ensure you have Python installed on your machine. If not, you can download and i
 1. Clone the repository:
  
  ```bash
-git clone https://github.com/YuluDuan/flowfairy.git
+git clone https://github.com/YuluDuan/rain-alert.git
 ```
 
 2. Install the required dependencies:
