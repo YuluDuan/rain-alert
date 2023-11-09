@@ -1,13 +1,14 @@
-# Rain Alert Python Project
+# Rain Alert
 
-This Python project provides a rain alert system that notifies users about upcoming rain based on predefined settings and a chosen location by sending SMS messages.
+This Python project provides a rain alert system that notifies users about upcoming rain based on predefined settings and a chosen location by sending SMS messages. It aims to save time for individuals, especially those residing in Vancouver ☔. With this rain alert system, users no longer need to manually check the weather each morning before heading to work. The system automates the process by providing timely notifications about rain forecasts, ensuring users stay informed without the need for manual weather checks.
+
 ## Project Overview
 
 The rain alert system is built using Python and utilizes weather data from an API to send notifications when rain is forecasted for a specified location. The core functionalities of the project include:
 
 - Fetching weather data for a specified location.
 - Analyzing the weather forecast to detect rain.
-- Sending alerts to users through their preferred communication channel.
+- Sending alerts to users through SMS by using Twilio API.
 
 ## Getting Started
 
